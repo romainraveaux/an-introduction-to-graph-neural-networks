@@ -6,7 +6,7 @@ Goals :
 *   A toy application to Letter classification
 *   A simple Graph Neural Network from Scratch (only with PyTorch and Networkx)
 
-![](http://romain.raveaux.free.fr/document/gcnnimproved.PNG) ![](document/graphletter.PNG)  
+![](http://romain.raveaux.free.fr/document/gcnnimproved.PNG) ![](http://romain.raveaux.free.fr/document/graphletter.PNG)  
 
 *   Introduction to supervised Machine Learning: A probabilistic introduction. [PDF slides](http://romain.raveaux.free.fr/document/courssupervisedmachinelearningRaveaux.pdf)
 *   Connecting local models : The case of chains [PDF slides](http://romain.raveaux.free.fr/document/Connecting%20local%20models%20the%20case%20of%20chains%20.pdf)
